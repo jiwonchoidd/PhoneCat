@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 133f2b36ad3f3164a91019362809c342
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: b773597868ed35849a44e96009523e7d
+  - enabled: 1
+    path: Assets/Scenes/HelloWorld.unity
+    guid: 518fa99cea7d1ca428611cd00e9d27af
+  - enabled: 1
+    path: Assets/Scenes/Shop ui.unity
+    guid: d52e0c1f7c998d342b943f31a9081756
+  - enabled: 1
+    path: Assets/Scenes/feed ui.unity
+    guid: bf8caf3cc2e170f43aab013b1d5e80a8
+  - enabled: 1
+    path: Assets/Scenes/play ui.unity
+    guid: 7d7913deefb97b842ac04a835d6b337f
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 41a2906bfc87e474d898f67c3f9af9b4
+  - enabled: 1
+    path: Assets/Scenes/Bluetooth.unity
+    guid: 1e211c0439a226d47aade3b77831cda1
+  - enabled: 1
+    path: Assets/Scenes/gallery.unity
+    guid: 1025a85673883be488ccd285caba6962
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4e34ce9a04c441a459987d2f7ae8d3c4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9f1ed9c1b7247ea488c3342bb6ac051a, type: 2}

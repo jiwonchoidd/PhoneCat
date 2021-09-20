@@ -477,6 +477,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a20e6835400cd9e44b7a137fed43b87c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myStoreUrl: https://play.google.com/store/apps/details?id=com.NSU.choijiwon
+  pastebinUrl: https://pastebin.com/raw/2q7ZdQe3
+  CurVersion: 0.0.1
   slider: {fileID: 83944576}
   SceneName: 
 --- !u!4 &801976688
@@ -487,7 +490,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 801976686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 528.4544, y: 344.40128, z: -6500.0664}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
